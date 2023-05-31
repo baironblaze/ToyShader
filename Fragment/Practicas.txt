@@ -1,0 +1,11 @@
+Crear los siguientes scripts
+
+- Que se vea color rojo
+- Que se vea color Verde
+- Que se vea color azul
+- Que se vea color blanco
+- Que se vea color negro
+- Que se vea color naranja
+- Que se vea color Violeta
+- Que se vea color Rosa
+- Que se vea color celeste
