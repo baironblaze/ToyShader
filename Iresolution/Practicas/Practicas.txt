@@ -1,0 +1,9 @@
+Crear scripts que puedan
+- con los valores de iResolution mostrar:
+    Color rojo
+    Color Verde
+    Color azul
+    Color blanco
+    Color Negro
+    Color naranja
+    Color Violeta
