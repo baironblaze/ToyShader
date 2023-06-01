@@ -1,0 +1,14 @@
+El objetivo de hoy es jugar con el gradiente
+y hacer que se vea de distintos colores o que valla
+en distintas direcciones ademas de esta forma se puede
+llegar a un mismo resultado de distintas formas
+y tabmbien colocar el 0,0 en varios puntos de la pantalla
+para tener mas control
+
+-Gradiente rojo para abajo
+-Gradiente azul para arriba
+-Gradiente Verde en alguna diagonal
+-tratar de posicion el 0,0 en todos los extramos
+
+
+
